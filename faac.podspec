@@ -22,7 +22,7 @@ Pod::Spec.new do |spec|
     faac lib.
                    DESC
 
-  spec.homepage     = "http://EXAMPLE/faac"
+  spec.homepage     = "https://github.com/yangjie2/faac"
 
   # ―――  Spec License  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
